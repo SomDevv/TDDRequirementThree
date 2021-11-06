@@ -41,7 +41,6 @@ class probabilityCalculatorTest {
         double probabilityEventOccurring=random.nextDouble(1);
 
         assertEquals(1-probabilityEventOccurring,probability.getProbabilityEventNotOccurring(probabilityEventOccurring));
-
     }
 
     @Test
