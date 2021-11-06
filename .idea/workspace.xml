@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2592a4-34b4-4ebf-8404-94c3657ae7ad" name="Changes" comment="testing">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2021_1_44_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2021_1_44_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my_world/sample/Axis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my_world/sample/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my_world/sample/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my_world/sample/SCB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/my_world/sample/TestBank.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Base_class/gettersSetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/statistics/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/statistics/probabilityCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/statistics/probabilityCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Area/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Area/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/statistics/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Area/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/abstraction.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -37,28 +42,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Geometry_" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.abstraction">
-    <configuration name="TestBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.TestBank" />
-      <module name="my_world" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="src.com.statistics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.probabilityCalculatorTest.ProbabilityEitherOfTwoEventsOccurring">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -66,52 +74,92 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="sample.abstraction" />
+    <configuration name="probabilityCalculatorTest.CheckingProbabilityOfHeadsEqualToTail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my_world" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="src.com.statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="src.com.statistics" />
+      <option name="MAIN_CLASS_NAME" value="src.com.statistics.probabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="CheckingProbabilityOfHeadsEqualToTail" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.helloworld" />
+    <configuration name="probabilityCalculatorTest.ProbabilityEitherOfTwoEventsOccurring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my_world" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="src.com.statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="src.com.statistics" />
+      <option name="MAIN_CLASS_NAME" value="src.com.statistics.probabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="ProbabilityEitherOfTwoEventsOccurring" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.rectangle" />
+    <configuration name="probabilityCalculatorTest.ProbabilityOfTwoEventsOccurringTogether" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my_world" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="src.com.statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="src.com.statistics" />
+      <option name="MAIN_CLASS_NAME" value="src.com.statistics.probabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="ProbabilityOfTwoEventsOccurringTogether" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="probabilityCalculatorTest.TestProbabilityEventNotOccurring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my_world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.statistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.com.statistics" />
+      <option name="MAIN_CLASS_NAME" value="src.com.statistics.probabilityCalculatorTest" />
+      <option name="METHOD_NAME" value="TestProbabilityEventNotOccurring" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="probabilityCalculatorTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my_world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.statistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.com.statistics" />
+      <option name="MAIN_CLASS_NAME" value="src.com.statistics.probabilityCalculatorTwoTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.abstraction" />
-        <item itemvalue="Application.rectangle" />
-        <item itemvalue="Application.helloworld" />
-        <item itemvalue="Application.TestBank" />
+        <item itemvalue="JUnit.probabilityCalculatorTest.ProbabilityEitherOfTwoEventsOccurring" />
+        <item itemvalue="JUnit.probabilityCalculatorTest.TestProbabilityEventNotOccurring" />
+        <item itemvalue="JUnit.probabilityCalculatorTest.ProbabilityOfTwoEventsOccurringTogether" />
+        <item itemvalue="JUnit.probabilityCalculatorTest.CheckingProbabilityOfHeadsEqualToTail" />
+        <item itemvalue="JUnit.probabilityCalculatorTwoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +171,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632989018219</updated>
+      <workItem from="1635826367842" duration="6253000" />
+      <workItem from="1635920012715" duration="3899000" />
+      <workItem from="1636110896047" duration="3376000" />
+      <workItem from="1636173879105" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1633939345595</created>
@@ -140,6 +192,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
