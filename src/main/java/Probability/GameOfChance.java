@@ -25,5 +25,5 @@ public class GameOfChance {
     public double getProbabilityEitherOfTwoEventsOccurring(double eventOneProbability, double eventTwoProbability, double bothOccurringTogether) {
         return eventOneProbability + eventTwoProbability - bothOccurringTogether;
     }
-    //final changes
+    //final changes done
 }
