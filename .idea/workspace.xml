@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2592a4-34b4-4ebf-8404-94c3657ae7ad" name="Changes" comment="testing">
-      <change afterPath="$PROJECT_DIR$/out/production/my_world/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/statistics/probabilityCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/statistics/probabilityCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/statistics/probabilityCalculatorTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/statistics/probabilityCalculatorTwoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Base_class/main_base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Area/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Area/RectangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Area/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/abstraction.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +45,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Geometry_" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -78,7 +68,7 @@
       </method>
     </configuration>
     <configuration name="probabilityCalculatorTest.CheckingProbabilityOfHeadsEqualToTail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_world" />
+      <module name="TDD_Requirement_3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.statistics.*" />
@@ -94,7 +84,7 @@
       </method>
     </configuration>
     <configuration name="probabilityCalculatorTest.ProbabilityEitherOfTwoEventsOccurring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_world" />
+      <module name="TDD_Requirement_3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.statistics.*" />
@@ -110,7 +100,7 @@
       </method>
     </configuration>
     <configuration name="probabilityCalculatorTest.ProbabilityOfTwoEventsOccurringTogether" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_world" />
+      <module name="TDD_Requirement_3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.statistics.*" />
@@ -126,7 +116,7 @@
       </method>
     </configuration>
     <configuration name="probabilityCalculatorTest.TestProbabilityEventNotOccurring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_world" />
+      <module name="TDD_Requirement_3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.statistics.*" />
@@ -142,7 +132,7 @@
       </method>
     </configuration>
     <configuration name="probabilityCalculatorTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my_world" />
+      <module name="TDD_Requirement_3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.statistics.*" />
@@ -177,7 +167,8 @@
       <workItem from="1635826367842" duration="6253000" />
       <workItem from="1635920012715" duration="3899000" />
       <workItem from="1636110896047" duration="3376000" />
-      <workItem from="1636173879105" duration="3302000" />
+      <workItem from="1636173879105" duration="3927000" />
+      <workItem from="1636186244774" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1633939345595</created>
